@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\PHJ\java_data\.metadata\.plugins\org.eclipse.jdt.core
+2007115701.index
+2663481984.index
+130601786.index
+3922113046.index
+3271193799.index
+3362410276.index
+168336843.index
+10819363.index
+4150893155.index

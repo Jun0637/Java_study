@@ -1,0 +1,12 @@
+package chap05;
+
+public class test {
+
+	public static void main(String[] args) {
+		Scanner stIn =new Scanner(System.in);
+		
+		System.out.print("Á¤¼ö°ª");
+
+	}
+
+}

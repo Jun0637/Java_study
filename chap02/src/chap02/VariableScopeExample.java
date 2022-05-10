@@ -1,0 +1,20 @@
+package chap02;
+
+public class VariableScopeExample {
+
+	public static void main(String[] args) {
+		
+		int v1 = 13;
+		int v2 = 0;
+		
+		if(v1>10) {
+			 v2 = v1 - 10;
+			}
+		int v3 = v1 + v2 +5;
+		int v4 = v1 + v2 +7;
+		int v5 = v3 + v4;
+		
+		System.out.println("v3 + v4 = " +v5);
+	}
+
+}
